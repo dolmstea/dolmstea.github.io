@@ -12,16 +12,18 @@
   </head>
   <body>
 	<!-- Navbar -->
-	<nav class="navbar navbar-expand-md bg-secondary">
-		<a class="navbar-brand text-white" href="index.html">David Olmstead</a>
+	<nav class="navbar navbar-expand-md navbar-dark bg-secondary">
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		
 		<div class="collapse navbar-collapse" id="navbarToggle">
 			<ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+					<a class = "nav-link" href="index.html">Home</a>
+				</li>
 				<li class="nav-item">
-					<a class="nav-link text-white" href="projects.html">Projects</a>
+					<a class="nav-link" href="projects.html">Projects</a>
 				</li>
 			</ul>
 		</div>
@@ -34,25 +36,44 @@
 		</div>
 	</div>
 	
-    <div class="container">
+    <div class="container mb-3">
 		<div class="row">
-			<div class="col-md-3 bg-light" style="height: 100px">
+			<div class="col-md-3 bg-light d-none d-md-block">
+				<h6>Competencies</h6>
+				<ul>
+					<li>Web Development</li>
+						<p class="mb-0"><small>PHP, SQL, JS, Rails, HTML5/CSS</small></p>
+					<li>Embedded Electronics Design</li>
+						<p class="mb-0"><small>Atmel, Microchip</small></p>
+					<li>Mobile App Development</li>
+						<p class="mb-0"><small>Android</small></p>
+				</ul>
 				<h6>Current Interests</h6>
 				<ul>
 					<li>Machine Learning</li>
 					<li>Outcome Measures in Healthcare Using Big Data</li>
 				</ul>
+				<h6>Language Experience</h6>
+				<ul>
+					<li>Python</li>
+					<li>Ruby</li>
+					<li>C</li>
+					<li>Java</li>
+				</ul>
 			</div>
 			<div class="col-md-9">
 				<h2>Welcome.</h2>
 				<p>This is the personal website of David Olmstead, a nurse, electronics and software hobbyist and physician-in-training.</p>
+				<div class="alert alert-warning">
+					<p class="mb-0">This website is still very much under construction and will not be fully-featured for quite some time.</p>
+				</div>
 			</div>
 		</div>
 	</div>
 	
 	<!-- Bottom Navigation -->
-	<nav class="navbar fixed-bottom bg-secondary justify-content-center">
-		<span class="navbar-text text-white">Copyright 2017 David Olmstead</span>
+	<nav class="navbar navbar-dark bg-secondary justify-content-center">
+		<span class="navbar-text">Copyright 2017 David Olmstead</span>
 	</nav>
 	
     <!-- Optional JavaScript -->
