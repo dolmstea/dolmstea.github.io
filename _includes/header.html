@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      
+    <!-- Custom meta tags -->
+    <meta name="author" content="David Olmstead">
+    <meta name="description" content="The personal website of David Olmstead.">
+    <meta name="keywords" content="David Olmstead, David, Olmstead">
+
+    <!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  </head>
+  <body>
+	<!-- Navbar -->
+	<nav class="navbar navbar-expand-md navbar-dark bg-secondary">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		
+		<div class="collapse navbar-collapse" id="navbarToggle">
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item {% if page.title == 'David Olmstead' %} active {% endif %}">
+					<a class = "nav-link" href="index.html">Home</a>
+				</li>
+				<li class="nav-item {% if page.title == 'Projects | David Olmstead' %} active {% endif %}">
+					<a class="nav-link" href="projects.html">Projects</a>
+				</li>
+                <li class="nav-item {% if page.title == 'Contact | David Olmstead' %} active {% endif %}">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+			</ul>
+		</div>
+	</nav>
