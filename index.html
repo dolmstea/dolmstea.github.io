@@ -2,44 +2,23 @@
 title: David Olmstead
 ---
 
-	{% include header.html %}
+{% include header.html %}
 
-	{% include jumbotron.html %}
+{% include jumbotron.html %}
 	
-    <div class="container mb-3">
-		<div class="row">
-			<div class="col-md-3 bg-light d-none d-md-block pt-2">
-				<h6>Competencies</h6>
-				<ul>
-					<li>Web Development</li>
-						<p class="mb-0"><small>PHP, SQL, JS, HTML5/CSS, Bootstrap</small></p>
-					<li>Embedded Electronics Design</li>
-						<p class="mb-0"><small>Atmel, Microchip MCUs</small></p>
-					<li>Mobile App Development</li>
-						<p class="mb-0"><small>Android</small></p>
-				</ul>
-				<h6>Current Areas of Interest</h6>
-				<ul>
-					<li>Machine Learning</li>
-					<li>Critical Care</li>
-                    <li>Anaesthesia</li>
-				</ul>
-				<h6>Language Experience</h6>
-				<ul>
-					<li>Python</li>
-					<li>Ruby</li>
-					<li>C</li>
-					<li>Java</li>
-				</ul>
-			</div>
-			<div class="col-md-9">
-				<h2>Welcome.</h2>
-				<p>David Olmstead is a nurse, programmer and embedded electronics developer with a special interest in building innovative healthcare technologies. He is presently undertaking medical training at the University of Calgary.</p>
-				<div class="alert alert-warning">
-					<p class="mb-0">This website is under construction.</p>
-				</div>
+<div class="container mb-3">
+	<div class="row">
+			
+    	{% include sidebar.html %}
+            
+		<div class="col-md-9">
+			<h2>Welcome.</h2>
+			<p>David Olmstead is a critical care nurse, programmer and embedded electronics developer with a special interest in building innovative healthcare technologies. He is presently undertaking medical training at the University of Calgary.</p>
+			<div class="alert alert-warning">
+				<p class="mb-0">This website is under construction.</p>
 			</div>
 		</div>
 	</div>
+</div>
 	
-	{% include footer.html %}
+{% include footer.html %}

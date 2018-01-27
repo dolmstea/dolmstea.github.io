@@ -6,7 +6,10 @@ title: Fixing a Sony KDL-46S4100
 
 I was pleasantly surprised recently to find a 46-inch Sony Bravia LCD TV advertised on Kijiji for $20. The unit was considered defective due to a persistent "white screen." I decided to take the risk, and hitched up the ol' hoss, a small european sedan, and headed out to meet Dave in the deep suburbs where I exchanged 20 of my hard-earned shekels for a Sony KDL-46S4100 television.
 
-Upon my return, it became quickly apparent that I should have drafted a second poor soul into the woeful task of lugging the unit into my apartment, as the one-man handling technique for a 46-inch television is admittedly not the simplest. With considerable effort and a few muttered curses, the television did arrive, intact, in my fifth-floor apartment.
+Upon my return, it became quickly apparent that I should have drafted a second poor soul into the woeful task of lugging the unit into my apartment, as the one-man handling technique for a 46-inch television is admittedly not the simplest. With considerable effort and a few muttered curses, the television did arrive, intact, to my fifth-floor apartment.
+
+![The Television]
+(img/tv/001.jpg)
 
 ##### Chapter the Second: Disassembly
 
