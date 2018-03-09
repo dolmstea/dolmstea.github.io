@@ -69,21 +69,23 @@ _id,TITLE,SHORT_NAME,SYSTEM,IMG_URL
 68,Second Degree AV Block (Mobitz II): Pathogenesis and clinical findings,Second Degree (Mobitz II) AVB,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Second-Degree-Heart-Block-Mobitz-Type-II-Pathogenesis-and-clinical-findings.jpg
 69,Atrial Fibrillation: Clinical Findings,Atrial Fibrillation: Clinical Findings,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Atrial-Fibrillation-Clinical-Findings.jpg
 70,Third Degree AV Block: Pathogenesis and clinical findings,Third Degree AVB,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Third-Degree-Complete-AV-Block-Pathogenesis-and-Clinical-Findings.jpg
-71,Statins: Mechanisms and side effects,Statins,Cardiology,
-72,Atherosclerosis: Pathogenesis,Atherosclerosis: Pathogenesis,Cardiology,
-73,Atherosclerosis: Complications,Atherosclerosis: Clinical findings,Cardiology,
-74,Orthostatic Hypotension: Pathogenesis and clinical findings,Orthostatic Hypotension,Cardiology,
-75,Pulsus Paradoxus,Pulsus Paradoxus,Cardiology,
-76,JVP: Kussmaul's Sign Explained,Kussmaul's,Cardiology,
-77,JVP: Physical Exam Features,JVP Physical Exam,Cardiology,
-78,Unstable Angina: Pathogenesis and clinical findings,Unstable Angina,Cardiology,
-79,Stable Angina: Pathogenesis and clinical findings,Stable Angina,Cardiology,
-80,Myocardial Infarction: Findings on physical exam,MI: Physical Exam,Cardiology,
-81,Myocardial Infarction: Findings on investigations,MI: Investigations,Cardiology,
-82,Myocardial Infarction: Complications,MI: Complications,Cardiology,
-83,Transposition of the Great Arteries: Pathogenesis and clinical findings,,Cardiology,
-84,Tetralogy of Fallot: Pathogenesis and clinical findings,,Cardiology,
-85,Dilated Cardiomyopathy,,Cardiology,
-86,Hypertrophic Cardiomyopathy: Pathogenesis and clinical findings,,Cardiology,
-87,Restrictive Cardiomyopathy: Pathogenesis and clinical findings,,Cardiology,
-88,Myocarditis,,Cardiology,
+71,Statins: Mechanisms and side effects,Statins,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/01/Slide1-1024x768.jpg
+72,Atherosclerosis: Pathogenesis,Atherosclerosis: Pathogenesis,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/03/Atherosclerosis-Pathogenesis-1024x768.jpg
+73,Atherosclerosis: Complications,Atherosclerosis: Clinical findings,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Atherosclerosis-Complications-1024x768.jpg
+74,Orthostatic Hypotension: Pathogenesis and clinical findings,Orthostatic Hypotension,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/10/Orthostatic-Hypotension-Pathogenesis-and-clinical-findings-1024x768.png
+75,Pulsus Paradoxus,Pulsus Paradoxus,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Pulsus-Paradoxus-1024x768.jpg
+76,JVP: Kussmaul's Sign Explained,Kussmaul's,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/JVPKussmal-1024x768.jpg
+77,JVP: Physical Exam Features,JVP Physical Exam,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/JVP-Physical-Exam-Features-1024x768.jpg
+78,Unstable Angina: Pathogenesis and clinical findings,Unstable Angina,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/10/Unstable-Angina-Pathogenesis-and-clinical-findings-1024x768.png
+79,Stable Angina: Pathogenesis and clinical findings,Stable Angina,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Stable-Angina-1024x768.jpg
+80,Myocardial Infarction: Findings on history,MI: History,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/MI-Findings-on-History-1024x768.jpg
+81,Overview of Ischemic Heart Disease,Overview of IHD,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Overview-of-Ischemic-Heart-Disease-1024x768.jpg
+82,Myocardial Infarction: Findings on physical exam,MI: Physical Exam,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/MI-Findings-on-Physical-Exam-1024x768.jpg
+83,Myocardial Infarction: Findings on investigations,MI: Investigations,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/MI-Findings-on-Investigations-1024x768.jpg
+84,Myocardial Infarction: Complications,MI: Complications,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Complications-of-Myocardial-Infarction-1024x768.jpg
+85,Transposition of the Great Arteries: Pathogenesis and clinical findings,Transposition of the Great Arteries,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/07/Transposition-of-the-Great-Arteries-Pathogenesis-clinical-findings-1024x768.png
+86,Tetralogy of Fallot: Pathogenesis and clinical findings,Tetralogy of Fallot,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/07/Tetralogy-of-Fallot-Pathogenesis-Clinical-Findings-1024x768.png
+87,Dilated Cardiomyopathy,Dilated Cardiomyopathy,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Dilated-Cardiomyopathy-1024x768.jpg
+88,Hypertrophic Cardiomyopathy: Pathogenesis and clinical findings,Hypertrophic Cardiomyopathy,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Hypertrophic-Cardiomyopathy-1024x768.jpg
+89,Restrictive Cardiomyopathy: Pathogenesis and clinical findings,Restrictive Cardiomyopathy,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Restrictive-Cardiomyopathy-1024x768.jpg
+90,Myocarditis,Myocarditis,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Myocarditis-1024x768.jpg
