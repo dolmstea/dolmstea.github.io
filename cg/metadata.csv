@@ -69,21 +69,62 @@ _id,TITLE,SHORT_NAME,SYSTEM,IMG_URL
 68,Second Degree AV Block (Mobitz II): Pathogenesis and clinical findings,Second Degree (Mobitz II) AVB,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Second-Degree-Heart-Block-Mobitz-Type-II-Pathogenesis-and-clinical-findings.jpg
 69,Atrial Fibrillation: Clinical Findings,Atrial Fibrillation: Clinical Findings,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Atrial-Fibrillation-Clinical-Findings.jpg
 70,Third Degree AV Block: Pathogenesis and clinical findings,Third Degree AVB,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Third-Degree-Complete-AV-Block-Pathogenesis-and-Clinical-Findings.jpg
-71,Statins: Mechanisms and side effects,Statins,Cardiology,
-72,Atherosclerosis: Pathogenesis,Atherosclerosis: Pathogenesis,Cardiology,
-73,Atherosclerosis: Complications,Atherosclerosis: Clinical findings,Cardiology,
-74,Orthostatic Hypotension: Pathogenesis and clinical findings,Orthostatic Hypotension,Cardiology,
-75,Pulsus Paradoxus,Pulsus Paradoxus,Cardiology,
-76,JVP: Kussmaul's Sign Explained,Kussmaul's,Cardiology,
-77,JVP: Physical Exam Features,JVP Physical Exam,Cardiology,
-78,Unstable Angina: Pathogenesis and clinical findings,Unstable Angina,Cardiology,
-79,Stable Angina: Pathogenesis and clinical findings,Stable Angina,Cardiology,
-80,Myocardial Infarction: Findings on physical exam,MI: Physical Exam,Cardiology,
-81,Myocardial Infarction: Findings on investigations,MI: Investigations,Cardiology,
-82,Myocardial Infarction: Complications,MI: Complications,Cardiology,
-83,Transposition of the Great Arteries: Pathogenesis and clinical findings,,Cardiology,
-84,Tetralogy of Fallot: Pathogenesis and clinical findings,,Cardiology,
-85,Dilated Cardiomyopathy,,Cardiology,
-86,Hypertrophic Cardiomyopathy: Pathogenesis and clinical findings,,Cardiology,
-87,Restrictive Cardiomyopathy: Pathogenesis and clinical findings,,Cardiology,
-88,Myocarditis,,Cardiology,
+71,Statins: Mechanisms and side effects,Statins,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/01/Slide1-1024x768.jpg
+72,Atherosclerosis: Pathogenesis,Atherosclerosis: Pathogenesis,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/03/Atherosclerosis-Pathogenesis-1024x768.jpg
+73,Atherosclerosis: Complications,Atherosclerosis: Clinical findings,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Atherosclerosis-Complications-1024x768.jpg
+74,Orthostatic Hypotension: Pathogenesis and clinical findings,Orthostatic Hypotension,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/10/Orthostatic-Hypotension-Pathogenesis-and-clinical-findings-1024x768.png
+75,Pulsus Paradoxus,Pulsus Paradoxus,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Pulsus-Paradoxus-1024x768.jpg
+76,JVP: Kussmaul's Sign Explained,Kussmaul's,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/JVPKussmal-1024x768.jpg
+77,JVP: Physical Exam Features,JVP Physical Exam,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/JVP-Physical-Exam-Features-1024x768.jpg
+78,Unstable Angina: Pathogenesis and clinical findings,Unstable Angina,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/10/Unstable-Angina-Pathogenesis-and-clinical-findings-1024x768.png
+79,Stable Angina: Pathogenesis and clinical findings,Stable Angina,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Stable-Angina-1024x768.jpg
+80,Myocardial Infarction: Findings on history,MI: History,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/MI-Findings-on-History-1024x768.jpg
+81,Overview of Ischemic Heart Disease,Overview of IHD,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Overview-of-Ischemic-Heart-Disease-1024x768.jpg
+82,Myocardial Infarction: Findings on physical exam,MI: Physical Exam,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/MI-Findings-on-Physical-Exam-1024x768.jpg
+83,Myocardial Infarction: Findings on investigations,MI: Investigations,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/MI-Findings-on-Investigations-1024x768.jpg
+84,Myocardial Infarction: Complications,MI: Complications,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Complications-of-Myocardial-Infarction-1024x768.jpg
+85,Transposition of the Great Arteries: Pathogenesis and clinical findings,Transposition of the Great Arteries,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/07/Transposition-of-the-Great-Arteries-Pathogenesis-clinical-findings-1024x768.png
+86,Tetralogy of Fallot: Pathogenesis and clinical findings,Tetralogy of Fallot,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/07/Tetralogy-of-Fallot-Pathogenesis-Clinical-Findings-1024x768.png
+87,Dilated Cardiomyopathy,Dilated Cardiomyopathy,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Dilated-Cardiomyopathy-1024x768.jpg
+88,Hypertrophic Cardiomyopathy: Pathogenesis and clinical findings,Hypertrophic Cardiomyopathy,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Hypertrophic-Cardiomyopathy-1024x768.jpg
+89,Restrictive Cardiomyopathy: Pathogenesis and clinical findings,Restrictive Cardiomyopathy,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Restrictive-Cardiomyopathy-1024x768.jpg
+90,Myocarditis,Myocarditis,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Myocarditis-1024x768.jpg
+91,Pericardial Effusion and Tamponade: Pathogenesis and clinical findings,Pericardial Effusion,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/02/pericardialeffusion.jpg
+92,Pericarditis: Pathogenesis and clinical findings,Pericarditis,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/pericarditis.jpg
+93,Aortic Dissection,Aortic Dissection,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Aortic-Dissection.jpg
+94,Hypovolemic Shock,Hypovolemic Shock,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/04/Hypovolemic-Shock.jpg
+95,Cardiogenic Shock,Cardiogenic Shock,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Cardiogenic-Shock.jpg
+96,Distributive Shock,Distributive Shock,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Distributive-Shock.jpg
+97,Obstructive Shock,Obstructive Shock,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Obstructive-Shock.jpg
+98,Drugs Used to Treat Shock,Drugs Used to Treat Shock,Cardiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Drugs-used-to-treat-shock.jpg
+99,Bronchiectasis: Pathogenesis and clinical findings,Bronchiectasis: Pathogenesis and clinical findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2018/02/Bronchiectasis-Pathogenesis-and-clinical-findings.png
+100,Asthma Acute Exacerbation: Pathogenesis and Treatment,Asthma Acute Exacerbation,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2018/02/Asthma-Acute-Exacerbation-Pathogenesis-and-Treatment.png
+101,Asthma: Clinical Findings,Asthma: Clinical Findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Asthma-Clinical-Findings.jpg
+102,Asthma: Pathogenesis,Asthma: Pathogenesis,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Asthma-Pathogenesis.jpg
+103,Asthma: Findings on Investigations,Asthma: Findings on Investigations,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Asthma-Findings-on-Investigations.jpg
+104,COPD: Pathogenesis,COPD: Pathogenesis,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/COPD-Pathogenesis.jpg
+105,COPD: Overview and Definitions,COPD: Overview and Definitions,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/COPD-Overview-and-Definitions1.jpg
+106,COPD: Clinical Findings,COPD: Clinical Findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/COPD-Clinical-Findings.jpg
+107,COPD: Complications,COPD: Complications,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/COPD-Complications.jpg
+108,COPD: Findings on Investigations,COPD: Findings on Investigations,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/COPD-Findings-on-Investigations.jpg
+109,Bronchiectasis: Findings on Chest X-Ray and CT Scan,Bronchiectasis: Findings on CXR and CT Scan,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Bronchiectasisxray.jpg
+110,Cystic Fibrosis: Findings on Chest X-Ray and Lung Window CT Scan,Cystic Fibrosis: Findings on CXR and Lung Window CT Scan,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Cystic-Fibrosis-Findings.jpg
+111,"Cystic Fibrosis: Pathogenesis, clinical findings, and complications","Cystic Fibrosis: Pathogenesis, clinical findings, and complications",Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Cystic-Fibrosis-Pathogenesis-clinical-findings-and-complications.png
+112,Cystic Fibrosis: Posterior-Anterior Chest X-Ray,Cystic Fibrosis: Posterior-Anterior Chest X-Ray,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Cystic-posterior-x.jpg
+113,Cystic Fibrosis: Lateral Chest X-Ray,Cystic Fibrosis: Lateral Chest X-Ray,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/lateral-cxr-cystic-fibrosis.jpg
+114,Cystic Fibrosis: Coronal CT,Cystic Fibrosis: Coronal CT,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/cystic-fibrosis-coronal-CT.jpg
+115,Cystic Fibrosis: Axial CT,Cystic Fibrosis: Axial CT,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/axial-ct-cystic.jpg
+116,Acute Respiratory Distress Syndrome: Pathogenesis and clinical findings,Acute Respiratory Distress Syndromes,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2018/02/Acute-Respiratory-Distress-Syndrome-Pathogenesis-and-clinical-findings.png
+117,Anaphylaxis: Pathogenesis,Anaphylaxis: Pathogenesis,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/10/Anaphylaxis-Pathogenesis.png
+118,"The A-a Gradient – Why it exists, and why we care","The A-a Gradient – Why it exists, and why we care",Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aawhy.jpg
+119,The A-a Gradient – Simple explanation,The A-a Gradient – Simple explanation,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aasimple.jpg
+120,The A-a Gradient – More scientific explanation,The A-a Gradient – More scientific explanation,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aamorescience.jpg
+121,Infant Respiratory Distress: Clinical findings,Infant Respiratory Distress: Clinical findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Infant-Respiratory-Distress-Clinical-findings.jpg
+122,Primary Spontaneous Pneumothorax: Pathogenesis and clinical findings,Primary Spontaneous Pneumothorax,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/11/Primary-Spontaneous-Pneumothorax-Pathogenesis-and-clinical-findings.png
+123,Tension Pneumothorax: Pathogenesis and clinical findings,Tension Pneumothorax: Pathogenesis and clinical findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Tension-Pneumothorax.jpg
+124,Adult Pneumonia: Pathogenesis and clinical findings,Adult Pneumonia: Pathogenesis and clinical findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/09/Slide1-1.jpg
+125,Croup,Croup,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Croup.jpg
+126,Bronchiolitis,Bronchiolitis,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Bronchiolitis.jpg
+127,Hypersensitivity Pneumonitis: Pathogenesis and clinical findings,Hypersensitivity Pneumonitis: Pathogenesis and clinical findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/09/Hypersensitivity-Pneumonitis-Pathogenesis-and-clinical-findings-.jpg
+128,Foreign Body Aspiration,Foreign Body Aspiration,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/foreign-body-aspiration.jpg
+129,Obstructive Sleep Apnea: Pathogenesis and Clinical Findings,Obstructive Sleep Apnea: Pathogenesis and Clinical Findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/OSA.jpg
