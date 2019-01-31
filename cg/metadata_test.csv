@@ -1,6 +1,6 @@
 TITLE,SHORT_NAME,SYSTEM,IMG_URL,IMG_RT_VERSION
 Nitrous Oxide,Nitrous Oxide,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2018/01/NitrousOxide_Final3.jpg,1
-Non-steroidal anti-inflammatory drugs (NSAIDs),Non-steroidal anti-inflammatory drugs (NSAIDs),Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/12/Slide1-1.jpg,1
+Non-steroidal anti-inflammatory drugs (NSAIDs),NSAIDs,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/12/Slide1-1.jpg,1
 Ketamine,Ketamine,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/Slide1.jpg,1
 Side Effects of Warfarin During Pregnancy,Side Effects of Warfarin During Pregnancy,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/08/Side-Effects-of-Warfarin-During-Pregnancy.png,1
 Side Effects of Valproic Acid During Pregnancy,Side Effects of Valproic Acid During Pregnancy,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/08/Side-Effects-of-Valproic-Acid-During-Pregnancy.png,1
@@ -8,22 +8,22 @@ Side Effects of NSAIDs During Pregnancy,Side Effects of NSAIDs During Pregnancy,
 Side Effects of Methimazole During Pregnancy,Side Effects of Methimazole During Pregnancy,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/08/Side-Effects-of-Methimazole-During-Pregnancy.png,1
 Side Effects of ACEi/ARBs During Pregnancy,Side Effects of ACEi/ARBs During Pregnancy,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/08/Side-Effects-of-ACEiARBs-During-Pregnancy.png,1
 Lithium: Mechanisms and Side Effects,Lithium: Mechanisms and Side Effects,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/02/Lithium-FINAL.jpg,1
-First Generation Anti-Psychotics: Mechanisms and Side Effects,First Generation Anti-Psychotics: Mechanisms and Side Effects,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/1st-gen-antipsychotics.jpg,1
-Second Generation Antipsychotics: Mechanisms and Side Effects,Second Generation Antipsychotics: Mechanisms and Side Effects,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/2nd-generation-antipsychotics.jpg,1
-Third Generation Antipsychotics: Mechanisms and Side Effects,Third Generation Antipsychotics: Mechanisms and Side Effects,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/3rd-gen-anti-psychotics.jpg,1
-Statins: Mechanisms and Side effects,Statins: Mechanisms and Side effects,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/01/Slide1.jpg,1
+First Generation Anti-Psychotics: Mechanisms and Side Effects,First Generation Anti-Psychotics,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/1st-gen-antipsychotics.jpg,1
+Second Generation Antipsychotics: Mechanisms and Side Effects,Second Generation Antipsychotics,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/2nd-generation-antipsychotics.jpg,1
+Third Generation Antipsychotics: Mechanisms and Side Effects,Third Generation Antipsychotics,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/3rd-gen-anti-psychotics.jpg,1
+Statins: Mechanisms and Side effects,Statins,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/01/Slide1.jpg,1
 Drugs used to treat shock,Drugs used to treat shock,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Drugs-used-to-treat-shock.jpg,1
 Opioid Receptor Agonists,Opioid Receptor Agonists,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/10/Slide1-2.jpg,1
 Pharmacodynamics,Pharmacodynamics,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/06/Pharmacodynamics-Basic-Principles-.png,1
 Pharmacokinetics,Pharmacokinetics,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/06/Pharmacokinetics-Basic-Principles-.png,1
-Non-Hormonal Contraception: mechanisms of action,Non-Hormonal Contraception: mechanisms of action,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/02/Non-hormonal.png,1
-Hormonal Contraception: mechanisms of action,Hormonal Contraception: mechanisms of action,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/02/Manion-contraception-MOAs.png,1
+Non-Hormonal Contraception: Mechanisms of action,Non-Hormonal Contraception,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/02/Non-hormonal.png,1
+Hormonal Contraception: Mechanisms of action,Hormonal Contraception,Pharmacology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/02/Manion-contraception-MOAs.png,1
 Ischemia: Pathogenesis of Cellular Injury and Death,Ischemia: Pathogenesis of Cellular Injury and Death,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/11/Calgary-Guide-Ischemia-Hypoxia-Necrosis.png,1
-"The A-a Gradient: Why it exists, and why we care","The A-a Gradient: Why it exists, and why we care",Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aawhy.jpg,1
+The A-a Gradient: Why it exists, and why we care,The A-a Gradient: Why it exists, and why we care,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aawhy.jpg,1
 The A-a Gradient: Simple explanation,The A-a Gradient: Simple explanation,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aasimple.jpg,1
 The A-a Gradient: More scientific explanation,The A-a Gradient: More scientific explanation,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aamorescience.jpg,1
 Basics of Calcium/Phosphate/Vitamin D Physiology,Basics of Calcium/Phosphate/Vitamin D Physiology,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/10/Ca-PO4-VitD-Physiology.png,1
-"Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol","Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol",Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/09/Lipid-Physiology-Slide.png,1
+Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol,Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/09/Lipid-Physiology-Slide.png,1
 Menstrual Cycle Physiology: The Hypothalamic-Pituitary-Ovarian Axis,Menstrual Cycle Physiology: The Hypothalamic-Pituitary-Ovarian Axis,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/Finalized-MG-RC-YY-Menstrual-Cycle-Physiology.png,1
 Menstrual Cycle Physiology: Ovarian Cycle: Follicular Phase Explained,Menstrual Cycle Physiology: Ovarian Cycle: Follicular Phase Explained,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/Finalized-MG-RC-YY-Menstrual-Cycle-Physiology-2.png,1
 Menstrual Cycle Physiology: Correlating the Ovarian and Uterine Cycles,Menstrual Cycle Physiology: Correlating the Ovarian and Uterine Cycles,Physiology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/Finalized-MG-RC-YY-Menstrual-Cycle-Physiology-1.png,1
@@ -159,7 +159,7 @@ Pemphigus Vulgaris,Pemphigus Vulgaris,Dermatology,http://calgaryguide.ucalgary.c
 Bullous Pemphigoid,Bullous Pemphigoid,Dermatology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Bullous-Pemphigoid.jpg,1
 Herpes Simplex Virus (HSV),Herpes Simplex Virus (HSV),Dermatology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Herpes-Simplex-Virus-HSV.jpg,1
 Scabies : Pathogenesis and clinical findings,Scabies : Pathogenesis and clinical findings,Dermatology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Scabies1.jpg,1
-1¡ and 2¡ Syphilis: Pathogenesis and clinical findings,1¡ and 2¡ Syphilis: Pathogenesis and clinical findings,Dermatology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/1%C2%B0-and-2%C2%B0-Syphilis-Pathogenesis-and-clinical-findings.jpg,1
+Primary and Secondary Syphilis: Pathogenesis and clinical findings,Primary and Secondary Syphilis: Pathogenesis and clinical findings,Dermatology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/1%C2%B0-and-2%C2%B0-Syphilis-Pathogenesis-and-clinical-findings.jpg,1
 Growth Hormone Excess,Growth Hormone Excess,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2018/01/GH-Excess-Final.jpg,1
 Pituitary Mass Effects,Pituitary Mass Effects,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/10/Pituitary-Mass-Effects-Final-JPEG-To-be-published-1024x768.jpg,1
 Hyperthyroidism,Hyperthyroidism,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2018/01/Hyperthyroidism_Final-1.jpg,1
@@ -171,7 +171,7 @@ Diabetic Foot: Pathogenesis and clinical findings,Diabetic Foot: Pathogenesis an
 Diabetic Ketoacidosis (DKA),Diabetic Ketoacidosis (DKA),Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Diabetic-Ketoacidosis.jpg,1
 Hyperosmolar Hyperglycemic State (HHS),Hyperosmolar Hyperglycemic State (HHS),Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Hyperosmolar-Hyperglycemic-State-HHS.jpg,1
 Diabetic Polyneuropathy: Pathogenesis and Clinical Findings,Diabetic Polyneuropathy: Pathogenesis and Clinical Findings,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Diabetic-Polyneuropathy.jpg,1
-"Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol","Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol",Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/09/Lipid-Physiology-Slide.png,1
+Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol,Lipid Pathway Basics: Absorption, Transport and Storage of Triglyceride and Cholesterol,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/09/Lipid-Physiology-Slide.png,1
 Primary Hypertriglyceridemia: Pathogenesis and Clinical Findings,Primary Hypertriglyceridemia: Pathogenesis and Clinical Findings,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Primary-Hypertriglyceridemia.jpg,1
 Gestational Diabetes: Risk factors and pathogenesis,Gestational Diabetes: Risk factors and pathogenesis,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/01/Slide1-1.jpg,1
 Gestational Diabetes Mellitus (GDM): Complications,Gestational Diabetes Mellitus (GDM): Complications,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/GDM-Complications.jpg,1
@@ -189,9 +189,8 @@ Vitamin D Deficiency: Pathogenesis,Vitamin D Deficiency: Pathogenesis,Endocrinol
 Central Adrenal Insufficiency: Pathogenesis and Clinical Findings,Central Adrenal Insufficiency: Pathogenesis and Clinical Findings,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Central-Adrenal-Insufficiency-Pathogenesis-and-Clinical-Findings.jpg,1
 Pheochromocytoma: Pathogenesis and Clinical Findings,Pheochromocytoma: Pathogenesis and Clinical Findings,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Pheochromocytoma-.jpg,1
 Primary Adrenal Insufficiency: Clinical Findings,Primary Adrenal Insufficiency: Clinical Findings,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Primary-Adrenal-Insufficiency.jpg,1
-21-Hydroxylase Deficiency (21-OHD): Pathogenesis and Clinical Findings,21-Hydroxylase Deficiency (21-OHD): Pathogenesis and Clinical Findings,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/07/21-Hydroxylase-Deficiency-Pathogenesis-and-clinical-findings.png,1
-"Pathogenesis of Diabetes Mellitus (DM), Type I","Pathogenesis of Diabetes Mellitus (DM), Type I",Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/DM-I-pathogenesis.jpg,1
-"Pathogenesis of Diabetes Mellitus (DM), Type II","Pathogenesis of Diabetes Mellitus (DM), Type II",Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/DM-II-pathogenesis.jpg,1
+Pathogenesis of Diabetes Mellitus (DM), Type I,Pathogenesis of Diabetes Mellitus (DM), Type I,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/DM-I-pathogenesis.jpg,1
+Pathogenesis of Diabetes Mellitus (DM), Type II,Pathogenesis of Diabetes Mellitus (DM), Type II,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/DM-II-pathogenesis.jpg,1
 Hypoglycemia: Pathogenesis,Hypoglycemia: Pathogenesis,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Hypoglycemia-Pathogenesis.jpg,1
 Hypoglycemia: Clinical Findings and Complications,Hypoglycemia: Clinical Findings and Complications,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Hypoglycemia-Clinical-Findings-and-Complications.jpg,1
 Diabetic Hypoglycemia: Pathogenesis and Clinical Findings,Diabetic Hypoglycemia: Pathogenesis and Clinical Findings,Endocrinology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Diabetic-Hypoglycemia-Clinical-Findings.jpg,1
@@ -276,7 +275,7 @@ Menstrual Cycle Physiology: Correlating the Ovarian and Uterine Cycles,Menstrual
 Menstrual Cycle Physiology: Ovarian Cycle: Ovulation Explained,Menstrual Cycle Physiology: Ovarian Cycle: Ovulation Explained,Gynaecology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/Finalized-MG-RC-YY-Menstrual-Cycle-Physiology-3.png,1
 Menstrual Cycle Physiology: Ovarian Cycle: Luteal Phase Explained,Menstrual Cycle Physiology: Ovarian Cycle: Luteal Phase Explained,Gynaecology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/Finalized-MG-RC-YY-Menstrual-Cycle-Physiology-4.png,1
 Menstrual Cycle Physiology: the Uterine Cycle,Menstrual Cycle Physiology: the Uterine Cycle,Gynaecology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/Finalized-MG-RC-YY-Menstrual-Cycle-Physiology-5.png,1
-"Breast Cancer: Risk Factors, Causes and Types","Breast Cancer: Risk Factors, Causes and Types",Gynaecology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/10/Breast-Cancer-Risk-factors-causes-and-types.png,1
+Breast Cancer: Risk Factors, Causes and Types,Breast Cancer: Risk Factors, Causes and Types,Gynaecology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/10/Breast-Cancer-Risk-factors-causes-and-types.png,1
 Breast Cancer: Clinical findings,Breast Cancer: Clinical findings,Gynaecology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/10/Breast-Cancer-Risk-factors-causes-and-types.png,1
 Dilation and Curettage: Complications,Dilation and Curettage: Complications,Gynaecology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/10/Breast-Cancer-Clinical-findings.png,1
 Acute Chest Syndrome (Sickle Cell Disease),Acute Chest Syndrome (Sickle Cell Disease),Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/10/Acute-Chest-Syndrome-Sickle-Cell-Disease.png,1
@@ -314,7 +313,7 @@ Transfusion Associated Circulatory Overload (TACO),Transfusion Associated Circul
 Transfusion Related Acute Lung Injury (TRALI): Pathogenesis and Clinical findings,Transfusion Related Acute Lung Injury (TRALI): Pathogenesis and Clinical findings,Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/TRALIfinal.jpg,1
 Iron Deficiency Anemia,Iron Deficiency Anemia,Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Iron-Deficiency-Anemia1.jpg,1
 Alpha Thalassemia: Pathogenesis and Clinical Presentations,Alpha Thalassemia: Pathogenesis and Clinical Presentations,Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Alpha-Thalassemia-Pathogenesis.jpg,1
-"Beta Thalassemia: Signs, Symptoms and Treatment","Beta Thalassemia: Signs, Symptoms and Treatment",Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Beta-Thalassemia-Signs-Symptoms-Treatment.jpg,1
+Beta Thalassemia: Signs, Symptoms and Treatment,Beta Thalassemia: Signs, Symptoms and Treatment,Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Beta-Thalassemia-Signs-Symptoms-Treatment.jpg,1
 Pathogenesis of Beta Thalassemia and Associated Hemoglobinopathies,Pathogenesis of Beta Thalassemia and Associated Hemoglobinopathies,Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Pathogenesis-of-Beta-Thalassemia.jpg,1
 Beta Thalassemia Minor,Beta Thalassemia Minor,Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Beta-Thalassemia-Minor.jpg,1
 Folate Deficiency,Folate Deficiency,Haematology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Folate-Deficiency.jpg,1
@@ -337,7 +336,7 @@ Gastroenteritis: Pathogenesis and clinical findings,Gastroenteritis: Pathogenesi
 Bronchiolitis,Bronchiolitis,Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Bronchiolitis.jpg,1
 Croup: Pathogenesis and Clinical Findings,Croup: Pathogenesis and Clinical Findings,Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Croup.jpg,1
 Pharyngitis (Group A Strep): Pathogenesis and Clinical Findings,Pharyngitis (Group A Strep): Pathogenesis and Clinical Findings,Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Group-A-Streptococci-Pharyngitis-Pathogenesis-and-Clinical-Findings.jpg,1
-"Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings","Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings",Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Neonatal-Sepsis-Pathogenesis.jpg,1
+Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings,Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings,Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Neonatal-Sepsis-Pathogenesis.jpg,1
 Septic Arthritis: Pathogenesis and clinical findings,Septic Arthritis: Pathogenesis and clinical findings,Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/10/Septic-arthitis-pathogenesis-and-clinical-findings.png,1
 Gonorrhea: Pathogenesis,Gonorrhea: Pathogenesis,Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Gonorrhea-Pathogenesis.jpg,1
 Upper Urinary Tract infection (UUTI): Pathogenesis and Clinical Findings,Upper Urinary Tract infection (UUTI): Pathogenesis and Clinical Findings,Infectious Diseases,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Upper-Urinary-Tract-Infection-UUTI.jpg,1
@@ -421,7 +420,7 @@ Pre-Eclampsia: Clinical findings + Complications in the fetus,Pre-Eclampsia: Cli
 Pre-Eclampsia: Clinical findings + Complications in the mother,Pre-Eclampsia: Clinical findings + Complications in the mother,Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/02/Yu-Yan-Pre-eclampsia-Maternal-Complications-publish.png,1
 Placenta Accreta: Pathogenesis and clinical findings,Placenta Accreta: Pathogenesis and clinical findings,Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/01/Placenta-Accreta-final.png,1
 Shoulder Dystocia: Pathogenesis and clinical findings,Shoulder Dystocia: Pathogenesis and clinical findings,Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/01/Placenta-Accreta-final.png,1
-"Chorioamnionitis: Risk factors, pathogenesis and clinical findings","Chorioamnionitis: Risk factors, pathogenesis and clinical findings",Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/New-YY-edits-Shoulder-dystocia-pathogenesis-and-clinical-findings.png,1
+Chorioamnionitis: Risk factors, pathogenesis and clinical findings,Chorioamnionitis: Risk factors, pathogenesis and clinical findings,Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/New-YY-edits-Shoulder-dystocia-pathogenesis-and-clinical-findings.png,1
 Vasa Previa: Pathogenesis,Vasa Previa: Pathogenesis,Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/11/New-YY-edits-Shoulder-dystocia-pathogenesis-and-clinical-findings.png,1
 Placental Abruption,Placental Abruption,Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/05/Chorioamnionitis_FacultyReviewed-1.png,1
 Induction of Labour: Indications and contraindications,Induction of Labour: Indications and contraindications,Obstetrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/02/Vasa-Previa.png,1
@@ -467,10 +466,10 @@ Paget's Disease: Pathogenesis and Clinical Findings,Paget's Disease: Pathogenesi
 Paget's Disease: Complications,Paget's Disease: Complications,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Pagets-Disease-Complications.jpg,1
 Avascular Necrosis: Pathogenesis and Clinical Findings,Avascular Necrosis: Pathogenesis and Clinical Findings,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Avascular-Necrosis-Pathogenesis-and-Clinical-Findings.jpg,1
 Acquired Disorders of Reduced Bone Strength: Pathogenesis,Acquired Disorders of Reduced Bone Strength: Pathogenesis,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Acquired-Disorders-of-Reduced-Bone-Strength-Pathogenesis.jpg,1
-"Open Fractures: Mechanisms, Clinical Features and Complications","Open Fractures: Mechanisms, Clinical Features and Complications",Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/11/Open-Fractures-final.png,1
-"Classification of Pelvic Ring Fractures: Mechanisms, Clinical Features and Complications","Classification of Pelvic Ring Fractures: Mechanisms, Clinical Features and Complications",Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/11/Pelvic-Fractures-Final.png,1
+Open Fractures: Mechanisms, Clinical Features and Complications,Open Fractures: Mechanisms, Clinical Features and Complications,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/11/Open-Fractures-final.png,1
+Classification of Pelvic Ring Fractures: Mechanisms, Clinical Features and Complications,Classification of Pelvic Ring Fractures: Mechanisms, Clinical Features and Complications,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/11/Pelvic-Fractures-Final.png,1
 Subtrochanteric Femur Fracture: Pathogenesis and clinical findings,Subtrochanteric Femur Fracture: Pathogenesis and clinical findings,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/09/Subtrochanteric-Fracture-Slide-v3.0.png,1
-"Anterior Shoulder Dislocation: Pathogenesis, clinical, and radiographic findings","Anterior Shoulder Dislocation: Pathogenesis, clinical, and radiographic findings",Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/04/Anterior-Shoulder-Dislocation-Pathogensis-clinical-and-radiographic-findings-1.png,1
+Anterior Shoulder Dislocation: Pathogenesis, clinical, and radiographic findings,Anterior Shoulder Dislocation: Pathogenesis, clinical, and radiographic findings,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2016/04/Anterior-Shoulder-Dislocation-Pathogensis-clinical-and-radiographic-findings-1.png,1
 Femoral Head Fracture: Pathogenesis and clinical findings,Femoral Head Fracture: Pathogenesis and clinical findings,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/09/Femoral-Head-Fracture-Pathogenesis-and-clinical-findings.png,1
 Falls: Pathogenesis and Complications,Falls: Pathogenesis and Complications,Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Falls.jpg,1
 Fracture Healing (and disruptors of this process),Fracture Healing (and disruptors of this process),Orthopedics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Fracture-Healing-and-disruptors-of-this-process.jpg,1
@@ -538,7 +537,7 @@ Tetralogy of Fallot: Pathogenesis and Clinical findings,Tetralogy of Fallot: Pat
 Childhood Immunization Schedule: Why we immunize,Childhood Immunization Schedule: Why we immunize,Pediatrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/08/Childhood-Immunization-Schedule-Why-we-immunize1.png,1
 Complications of Measles: Pathogenesis and Clinical Findings,Complications of Measles: Pathogenesis and Clinical Findings,Pediatrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Complications-of-Measles-Pathogenesis-and-Clinical-Findings1.jpg,1
 21-Hydroxylase Deficiency (21-OHD): Pathogenesis and Clinical Findings,21-Hydroxylase Deficiency (21-OHD): Pathogenesis and Clinical Findings,Pediatrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/07/21-Hydroxylase-Deficiency-Pathogenesis-and-clinical-findings.png,1
-"Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings","Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings",Pediatrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Neonatal-Sepsis-Pathogenesis.jpg,1
+Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings,Neonatal Sepsis: Pathogenesis, and Overview of Clinical Findings,Pediatrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Neonatal-Sepsis-Pathogenesis.jpg,1
 Complications of Prematurity: Overview,Complications of Prematurity: Overview,Pediatrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Complications-of-Prematurity.jpg,1
 Scoliosis: Pathogenesis and clinical findings,Scoliosis: Pathogenesis and clinical findings,Pediatrics,http://calgaryguide.ucalgary.ca/wp-content/uploads/2015/05/Scoliosis-Pathogenesis-and-Clinical-Findings.jpg,1
 Medical Conditions Causing Mania or Mania-Like Episodes: Pathogenesis,Medical Conditions Causing Mania or Mania-Like Episodes: Pathogenesis,Psychiatry,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/11/Medical-Conditions-Causing-Mania.png,1
@@ -601,14 +600,14 @@ COPD: Complications,COPD: Complications,Respirology,http://calgaryguide.ucalgary
 COPD: Findings on Investigations,COPD: Findings on Investigations,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/COPD-Findings-on-Investigations.jpg,1
 Bronchiectasis: Findings on Chest X-Ray and CT Scan,Bronchiectasis: Findings on Chest X-Ray and CT Scan,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Bronchiectasisxray.jpg,1
 Cystic Fibrosis: Findings on Chest X-Ray and Lung Window CT Scan,Cystic Fibrosis: Findings on Chest X-Ray and Lung Window CT Scan,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Cystic-Fibrosis-Findings.jpg,1
-"Cystic Fibrosis: Pathogenesis, clinical findings, and complications","Cystic Fibrosis: Pathogenesis, clinical findings, and complications",Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Cystic-Fibrosis-Pathogenesis-clinical-findings-and-complications.png,1
+Cystic Fibrosis: Pathogenesis, clinical findings, and complications,Cystic Fibrosis: Pathogenesis, clinical findings, and complications,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Cystic-Fibrosis-Pathogenesis-clinical-findings-and-complications.png,1
 Cystic Fibrosis: Posterior-Anterior Chest X-Ray,Cystic Fibrosis: Posterior-Anterior Chest X-Ray,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Cystic-posterior-x.jpg,1
 Cystic Fibrosis: Lateral Chest X-Ray,Cystic Fibrosis: Lateral Chest X-Ray,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/lateral-cxr-cystic-fibrosis.jpg,1
 Cystic Fibrosis: Coronal CT,Cystic Fibrosis: Coronal CT,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/cystic-fibrosis-coronal-CT.jpg,1
 Cystic Fibrosis: Axial CT,Cystic Fibrosis: Axial CT,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/axial-ct-cystic.jpg,1
 Acute Respiratory Distress Syndrome: Pathogenesis and clinical findings,Acute Respiratory Distress Syndrome: Pathogenesis and clinical findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2018/02/Acute-Respiratory-Distress-Syndrome-Pathogenesis-and-clinical-findings.png,1
 Anaphylaxis: Pathogenesis,Anaphylaxis: Pathogenesis,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2017/10/Anaphylaxis-Pathogenesis.png,1
-"The A-a Gradient: Why it exists, and why we care","The A-a Gradient: Why it exists, and why we care",Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aawhy.jpg,1
+The A-a Gradient: Why it exists, and why we care,The A-a Gradient: Why it exists, and why we care,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aawhy.jpg,1
 The A-a Gradient: Simple explanation,The A-a Gradient: Simple explanation,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aasimple.jpg,1
 The A-a Gradient: More scientific explanation,The A-a Gradient: More scientific explanation,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/aamorescience.jpg,1
 Infant Respiratory Distress: Clinical findings,Infant Respiratory Distress: Clinical findings,Respirology,http://calgaryguide.ucalgary.ca/wp-content/uploads/2014/09/Infant-Respiratory-Distress-Clinical-findings.jpg,1
