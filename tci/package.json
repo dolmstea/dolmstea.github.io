@@ -1,6 +1,7 @@
 {
   "name": "tci",
   "version": "0.1.0",
+  "homepage": "https://davidolmstead.ca/tci/build",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
